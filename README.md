@@ -18,3 +18,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivamgupta2003&show_icons=true&locale=en&layout=compact" alt="shivamgupta2003" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamgupta2003&show_icons=true&locale=en" alt="shivamgupta2003" /></p>
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ShivamGupta2003&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
