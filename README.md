@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
 <h3 align="center">A 1st year student pursuing CSAI from NSUT Delhi and currently learning data structures and web development.</h3>
 
-- 🔭 I’m currently working on [Portfolio Project](https://github.com/ShivamGupta2003/Portfolio-Project)
+- 🔭 I’m currently working on [Portfolio Project]([https://github.com/ShivamGupta2003/Portfolio-Project](https://imshivam-gupta.github.io/PProject.github.io/))
 
 - 🌱 I’m currently learning **JAVA | C | HTML | CSS**
 
