@@ -6,7 +6,7 @@
 &nbsp; 
 # About
 
-<h3>👋 Hi there, I'm Shivam Gupta  </h3>
+<h3>👋 Hi there, I'm <a href="https://shivamgupta2003.netlify.app/">Shivam Gupta</a>  </h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;Competitive+Programmer)](https://git.io/typing-svg)
 
@@ -15,10 +15,11 @@
 I am Sophomore at NSUT and full-stack developer with a passion for creating efficient and effective solutions. Currently studying computer science with specialization in artificial intelligence at Netaji Subash University of Technology (formerly NSIT). I have a deep understanding of algorithms and data structures through which i try to solve problems. My expertise in multiple programming languages, including JAVA, C++, Javascript, Python, Dart and experience with various technologies such as React, Express, Flutter, allows me to deliver full-featured projects. I have ability to quickly learn and adapt to new technologies. I am open to new opportunities to work on challenging projects and collaborate with other passionate developers.
 </p>
 
-
 More you can learn about me on [my personal website](https://shivamgupta2003.netlify.app/)
 
 Currently Learning - Machine Learning
+
+My CV &nbsp; ➡️ &nbsp; [Link](https://drive.google.com/file/d/1FQq434XhtceVdEe2S_JA3vkVYOSRVGJ2/view?usp=sharing)
 
 &nbsp;
 ## Let's Connect
@@ -103,7 +104,4 @@ Currently Learning - Machine Learning
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imshivam-gupta&theme=dark&show_icons=true&locale=en&layout=compact" alt="shivamgupta2003" >
 </p>
 
-&nbsp;
-
-## [Resume](https://drive.google.com/file/d/1FQq434XhtceVdEe2S_JA3vkVYOSRVGJ2/view?usp=sharing)
 
