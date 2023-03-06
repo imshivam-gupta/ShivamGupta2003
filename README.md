@@ -92,7 +92,7 @@ Currently Learning - Machine Learning
 
 &nbsp;
 
-![Shivam's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=imshivam-gupta&custom_title=My%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Shivam's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=imshivam-gupta&custom_title=My%20GitHub%20Activity%20Graph&bg_color=0D1117&color=FA8B00&line=FA8B00&point=FA8B00&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imshivam-gupta&theme=dark&show_icons=true&locale=en&layout=compact" alt="shivamgupta2003" >
