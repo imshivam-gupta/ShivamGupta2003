@@ -2,6 +2,7 @@
 <a href="https://shivamgupta2003.netlify.app/"><img src="https://i.ibb.co/VjGYB4g/github-header-image.png" alt="github-header-image" border="0" ></a>
 </p>
 
+
 &nbsp; 
 # About
 
@@ -102,5 +103,7 @@ Currently Learning - Machine Learning
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imshivam-gupta&theme=dark&show_icons=true&locale=en&layout=compact" alt="shivamgupta2003" >
 </p>
 
+&nbsp;
 
+## [Resume](https://drive.google.com/file/d/1FQq434XhtceVdEe2S_JA3vkVYOSRVGJ2/view?usp=sharing)
 
