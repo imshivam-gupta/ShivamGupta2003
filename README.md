@@ -3,9 +3,9 @@
 </p>
 
 &nbsp; 
-# About
+# About Me 🙂
 
-<h3>👋 Hi there, I'm Shivam Gupta  </h3>
+<h3>👋 Hi there, I'm <a href="https://shivamgupta2003.netlify.app/"><b>Shivam Gupta </b></a> </h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;Competitive+Programmer)](https://git.io/typing-svg)
 
@@ -92,9 +92,13 @@ Currently Learning - Machine Learning
 
 &nbsp;
 
+
+![Shivam's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=imshivam-gupta&custom_title=Shivam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imshivam-gupta&theme=dark&show_icons=true&locale=en&layout=compact" alt="shivamgupta2003" >
-  </p>
+</p>
+
 
 
 
