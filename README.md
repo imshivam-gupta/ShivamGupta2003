@@ -1,36 +1,100 @@
-<h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
-<h3 align="center">A 1st year student pursuing CSAI from NSUT Delhi and currently learning data structures and web development.</h3>
+<p align="center">
+<a href="https://shivamgupta2003.netlify.app/"><img src="https://i.ibb.co/VjGYB4g/github-header-image.png" alt="github-header-image" border="0" ></a>
+</p>
 
-- 🔭 I’m currently working on [Portfolio Project]([https://github.com/ShivamGupta2003/Portfolio-Project](https://imshivam-gupta.github.io/PProject.github.io/))
+&nbsp; 
+# About
 
-- 🌱 I’m currently learning **JAVA | C | HTML | CSS**
+<h3>👋 Hi there, I'm Shivam Gupta  </h3>
 
-- 📫 How to reach me **Connect and Message me on my Linkedin**
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;Competitive+Programmer)](https://git.io/typing-svg)
 
-<h3 align="left">Connect with me:</h3>
+I am Sophomore at NSUT and full-stack developer with a passion for creating efficient and effective solutions. Currently studying computer science with specialization in artificial intelligence at Netaji Subash University of Technology (formerly NSIT). I have a deep understanding of algorithms and data structures through which i try to solve problems. My expertise in multiple programming languages, including JAVA, C++, Javascript, Python, Dart and experience with various technologies such as React, Express, Flutter, allows me to deliver full-featured projects. I have ability to quickly learn and adapt to new technologies. I am open to new opportunities to work on challenging projects and collaborate with other passionate developers.
+
+More you can learn about me on [my personal website](https://shivamgupta2003.netlify.app/)
+
+Currently Learning - Machine Learning
+
+&nbsp;
+## Let's Connect
+
 <p align="left">
   
-  <img align="right" height="250" width="400" src="https://media3.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47u651twctsezhzbsw8myzchukcjxu7oeakq3ujf17&rid=giphy.gif" />
-
- 
-
 <a href="https://www.linkedin.com/in/shivamgupta2003/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"
-  width="40" />
-</a> <a href="https://instagram.com/shivamgupta302003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivamgupta302003" height="30" width="40" /></a> <a href="https://www.leetcode.com/shivamgupta2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivamgupta2003" height="30" width="40" /></a>
+  <img 
+       align="center" 
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" 
+       height="30"
+       width="40" 
+   />
+</a> 
+  
+<a href="https://www.instagram.com/shivamm._.gupta._/" target="blank">
+  <img
+       align="center" 
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+       alt="shivamgupta302003" 
+       height="30"
+       width="40" 
+     />
+</a> 
+  
+<a href="https://leetcode.com/shivam_gupta2604/" target="blank">
+  <img 
+     align="center" 
+     src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
+     alt="shivamgupta2003" 
+     height="30" 
+     width="40" 
+   />
+</a>
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+&nbsp;
+## Tool's and technologies
+
+### Programming Languages
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  height="40" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="40"/> &nbsp;
+          
+  
+  
+### Tech Stack
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="40" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="40"/> &nbsp;
+          
+  
+### Environments
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="40"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/> &nbsp;
 
 
 
-<br><br>
+&nbsp; 
+# Stats
 
+![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=imshivam-gupta&show_icons=true&theme=dark)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imshivam-gupta&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+&nbsp;
 
-![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=imshivam-gupta&theme=dark&date_format=j%20M%5B%20Y%5D)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=imshivam-gupta&theme=dark&show_icons=true&locale=en&layout=compact" alt="shivamgupta2003" >
+  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imshivam-gupta&theme=dark&show_icons=true&locale=en&layout=compact" alt="shivamgupta2003" /></p>
+
+
