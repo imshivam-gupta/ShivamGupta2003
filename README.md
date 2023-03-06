@@ -87,7 +87,7 @@ Currently Learning - Machine Learning
 # Stats
 
 ![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=imshivam-gupta&show_icons=true&theme=dark)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=imshivam-gupta&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 &nbsp;
