@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://shivamgupta2003.netlify.app/"><img src="https://i.ibb.co/VjGYB4g/github-header-image.png" alt="github-header-image" border="0" ></a>
+  <a href="https://shivamgupta2003.netlify.app/"><img src="https://i.ibb.co/98YGXh0/SHIVAM-GUPTA-2.png" alt="SHIVAM-GUPTA-2" border="0"></a>
 </p>
 
 
