@@ -8,7 +8,7 @@
 
 <h3>👋 Hi there, I'm <a href="https://shivamgupta2003.netlify.app/">Shivam Gupta</a>  </h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;Competitive+Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;Competitive+Programmer;Blockchain+Enthusiastic)](https://git.io/typing-svg)
 
 
 <p>
