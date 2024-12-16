@@ -1,4 +1,3 @@
-![Welcome Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+Shivam's+GitHub!)
 
 # 👋 Hi, I'm Shivam Gupta
 
